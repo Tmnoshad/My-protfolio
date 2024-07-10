@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.nav_section {
+    display: flex;
+   justify-content: space-around;
+}
+.logo {
+    font-family: "Azeret Mono", monospace;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.resume_btn {
+    padding: 17px 24px;
+    border: 1px solid #0D1321;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.banner {
+    background-image: url(assets/Hero-bg.png);
+    padding: 30px 0;
+    margin-bottom: 30px;
+}
+
+.banner_items {
+    text-align: center;
+    width: 980px;
+    margin: auto;
+}
+.banner_items img {
+    width: 240px;
+    height: 240px;
+}
+.banner_title {
+    font-family: "Azeret Mono", monospace;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.banner_btn {
+    background-color: #0D1321;
+    border: 1px solid #0D1321;
+    border-radius: 5px;
+    padding: 21px 24px;
+    font-size: 20px;
+    color: white;
+    font-family: "Azeret Mono", monospace;
+}
+
+.why-web-development {
+    width: 1140px;
+    margin: auto;
+    background-color: #0d132108;
+    border-radius: 16px;
+    padding: 20px 0;
+}
+.why-web {
+    text-align: center;
+}
+
+.title {
+    font-family: "Azeret Mono", monospace;
+    font-size: 32px;
+    font-weight: 700;
+}
+.why-web-first-section, .why-web-second-section, .why-web-third-section {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    width: 857px;
+    margin: auto;
+    padding: 48px;
+    border-radius: 16px;
+    margin-bottom: 30px;
+}
+.section-title {
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 500;
+}
+.section_btn {
+    padding: 12px 20px;
+    border: 1px solid #0D1321;
+    border-radius: 5px;
+    background-color: white;
+}
+.section-box {
+    width: 477px;
+}
+/* inspiration section */
